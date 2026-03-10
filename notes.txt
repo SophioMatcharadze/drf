@@ -1,0 +1,4 @@
+* Code snippets are always associated a creator
+* Only authenticated users may create snippets
+* Only the creator of a snippet may update or delete it
+* Unauthentificated requests should have full read-Only access
